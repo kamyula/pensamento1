@@ -1,1 +1,7 @@
-# pensamento1
+<header></header># PENSAMENTO1
+
+
+ATRAVÉS DO ARANHA VERSO SUPERA O PRIMEIRO FILME?
+#homem-aranha
+
+
