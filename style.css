@@ -6,6 +6,6 @@ body {
 
 header {
     border-bottom: solid 8px rgb(231, 15, 15);
-    margin: 5px;
+    padding: 20px;
     font-size: 32px;
 }
